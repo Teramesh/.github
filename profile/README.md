@@ -1,7 +1,13 @@
 ![image](https://github.com/user-attachments/assets/b05f6687-a232-4f58-b9b0-f4c1e73afe9f)
 
+Welcome to Teramesh's main GitHub organization!
 
+#### Explore some of our open source projects at [Design Toolkit](https://teramesh.tech/Resources/#Design-Toolkit/).
 
+* Connect
+    * Connect with [Teramesh](https://teramesh.tech/Contact/).
+* Useful resources
+    * Learn more about what we do. See our [Knowledge Base](https://teramesh.tech/Resources/#Knowledge-Base).
 <!--
 
 **Here are some ideas to get you started:**
