@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/dcacad4a-4c46-4f2a-90a1-314ed8fed017)
-
-
+![image](https://github.com/user-attachments/assets/5c81d203-b052-46ca-84e5-0a91c191c03f)
 
 Welcome to Teramesh's main GitHub organization!
 
