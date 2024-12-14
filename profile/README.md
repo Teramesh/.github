@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/ae1f04a5-4ac9-4ff4-bf99-66151b061552)
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/ae1f04a5-4ac9-4ff4-bf99-66151b061552" alt="Sublime's custom image"/>
+</p>
 
 Welcome to Teramesh's main GitHub organization!
 
