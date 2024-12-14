@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/ae1f04a5-4ac9-4ff4-bf99-66151b061552" alt="Sublime's custom image"/>
+   <img src="https://github.com/Teramesh/.github/blob/main/profile/Logo_Light.jpg" width=410 alt="Teramesh Logo"/>
 </p>
 
 Welcome to Teramesh's main GitHub organization!
