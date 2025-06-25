@@ -10,6 +10,8 @@ Welcome to Teramesh's main GitHub organization!
     * Connect with [Teramesh](https://teramesh.tech/Contact/).
 * Useful resources
     * Learn more about what we do. See our [Knowledge Base](https://teramesh.tech/Resources/#Knowledge-Base).
+* [Sample Engineering Design Reports](https://teramesh.tech/Resources/#Work-Samples)
+    * Please submit your request via the contact form.
 <!--
 
 **Here are some ideas to get you started:**
